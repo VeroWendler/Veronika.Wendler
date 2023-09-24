@@ -2,7 +2,5 @@
 
 
 ### Education
-B.A Psychology, University of Aberdeen - expected end: 2025
+B.A Psychology, University of Aberdeen - (2021-2025)
 
-
-### Projects
